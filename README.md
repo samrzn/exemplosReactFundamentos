@@ -10,3 +10,5 @@ Aplicação de exemplos apresentados nas aulas de React.JS durante o bootcamp Re
         - State & Ciclo de vida;
         - Renderização condicional;
         - Tratando eventos;
+        - Listas, keys, mapeamento & manipulação de array;
+        - Arrow functions.

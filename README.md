@@ -3,7 +3,7 @@
 ## Informações do projeto
 
 
-#### Fundamentos da bliblioteca ReactJS:
+#### Fundamentos da biblioteca ReactJS:
 
 ###### Front-end de demonstração da estrutura de uma aplicação em ReactJS nas regras de importação/exportação de componentes & elementos, estrutura de classes, criação de componentes, constructors, props, state, renderização condicional, tratamento de eventos, arrow functions, manipulação de arrays e organização de diretórios para exercitar os conhecimentos apresentados durante o módulo 4 "Desenvolvimento de Sistemas, nível 2" no bootcamp Recode Pro 2022;
 

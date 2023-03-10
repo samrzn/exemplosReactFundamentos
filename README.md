@@ -31,8 +31,8 @@
 
 <div style="display: inline_block"><br>  
 <img align="center" alt="Node" height="54" width="47" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" />
-<img align="center" alt="React" height="44" width="44" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" />
 <img align="center" alt="JSX" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/jsx_alt_icon_132290.png" />
+<img align="center" alt="React" height="44" width="44" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" />
 
 
 
